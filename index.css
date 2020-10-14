@@ -1,0 +1,185 @@
+body{
+    background: #1c1c1c
+}
+a {
+    color: antiquewhite;
+    text-decoration: none;
+    background-color: transparent;
+  }
+  a:hover {
+    color: #f58d3d;
+    text-decoration: solid;
+    font-size: large;
+  }
+  .dayy
+  {
+    
+    align-items: center;
+    border-radius: 8px;
+    height: 50px;  
+    background-color: #333333;
+    font-family: 'Poppins', sans-serif;
+  }
+  .dayyy
+  {
+    margin-top: 20px;
+    border-radius: 8px;
+    height: 53px;  
+    background-color: #333333;
+    font-family: 'Poppins', sans-serif;
+  }
+  .timetable
+  {
+      margin-top: 3px;
+      position: relative;
+      top: 30px;
+      font-family: 'Poppins', sans-serif;
+
+  }
+  .manofthemasses
+  {
+      background: green ;
+  }
+  .centbgr
+  {
+    background: linear-gradient(to right, #7adaf8, #b6f0c2, #a2f08e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 70px;
+    border-radius: 8px;
+  }
+  .card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.125);
+    border-radius: 8px;
+  }
+  .card-title {
+    color: #fff;
+    margin-bottom: 0.75rem;
+    font-family: 'Poppins';
+  }
+  .card-text
+  {
+      color: #fff;
+      font-family: 'Josefin Sans';
+  }
+  .tablehead
+  {
+      border-radius: 8px;
+      height: 50px;  
+      background-color: #333333;
+
+      font-family: 'Poppins', sans-serif;
+
+  }
+  th {
+    text-align: justify ;
+  }
+  .tabledata
+  {
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: #333333;
+    height: 53px;  
+    font-family: 'Josefin Sans', sans-serif;
+
+  }
+  td{
+      padding-top: 15px;
+      justify-content: center;
+  }
+  .tdbutton
+  {
+      background-color: #1c1c1c;
+      height: 40px;
+      width: 100px;
+  }
+  .fachead
+  {
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    text-decoration-color: #f58d3d;
+
+  }
+  .facitemm
+  {
+    font-family: 'Prompt', sans-serif;
+    font-size: 22px;
+    color: #f58d3d;
+  }
+  .facitem
+  {
+    font-family: 'Josefin Sans';
+        font-size: 22px;
+  }
+  .matlink
+  {
+      margin-left: 70px;
+      font-size: 20px;
+      font-family: 'Poppins', sans-serif;
+    }
+    .btn-primary {
+        color: rgb(0, 0, 0);
+        background-color: #f58d3d;
+        border-color: #ff8222;
+      }
+      .btn-primary:hover {
+        color: #fff;
+        background-color: #f76b00;
+        border-color: #ff8222;
+      }
+      .btn-primary:focus, .btn-primary.focus {
+        color: #fff;
+        background-color: #f76b00;
+        border-color: #ff8222;
+        box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+      }
+      
+      .btn-primary.disabled, .btn-primary:disabled {
+        color: #fff;
+        background-color: #f76b00;
+        border-color: #ff8222;
+      }
+      
+      .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
+      .show > .btn-primary.dropdown-toggle {
+        color: #fff;
+        background-color: #f76b00;
+        border-color: #ff8222;
+      }
+      
+      .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
+      .show > .btn-primary.dropdown-toggle:focus {
+        box-shadow: 0 0 0 0.2rem rgb(255, 123, 0);
+      }
+.taskc
+{
+    border: #f58d3d;
+}
+.rounder
+{
+    border-radius: 10px;
+}
+.announc
+{
+    background-color: #333333;
+    border-radius: 10px;
+}
+.annhead
+{
+    margin-left: 20px;
+    font-family: 'Cabin', sans-serif;
+    color: #ffaa68;
+}
+.annmat
+{
+    margin-left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #d6d3d3;
+}
